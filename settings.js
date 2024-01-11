@@ -63,10 +63,10 @@ global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
-global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur logo pic
+global.thum = fs.readFileSync("./LocalData/theme/https://www.google.com/search?client=ms-android-oppo-rvo3&sca_esv=597534592&sxsrf=ACQVn08yhtmwKVAxXYglXO3xgHR_xotSbQ:1704984986152&q=HDR+photos&tbm=isch&source=lnms&prmd=ivsnmbtz&sa=X&ved=2ahUKEwicrcmDzNWDAxUZiFYBHZLOAJkQ0pQJegQIDRAB#984989952&sa=1&q=HDR+hacker+photos&oq=HDR+hacker+photos&aqs=mobile-gws-lite..0l4.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./LocalData/theme/https://www.google.com/search?client=ms-android-oppo-rvo3&sca_esv=597534592&tbm=isch&sxsrf=ACQVn0_eVjnRnIGISCHdeONuueZr2SaLhw%3A1704984989952&sa=1&q=HDR+hacker+photos&oq=HDR+hacker+photos&aqs=mobile-gws-lite..0l4#.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur error pic
-global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
+global.thumb = fs.readFileSync("./LocalData/theme/https://www.google.com/search?client=ms-android-oppo-rvo3&sca_esv=597534592&sxsrf=ACQVn08yhtmwKVAxXYglXO3xgHR_xotSbQ:1704984986152&q=HDR+photos&tbm=isch&source=lnms&prmd=ivsnmbtz&sa=X&ved=2ahUKEwicrcmDzNWDAxUZiFYBHZLOAJkQ0pQJegQIDRAB#.jpg") //ur thumb pic
 
 //DATA BASED
 
