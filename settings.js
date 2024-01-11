@@ -65,7 +65,7 @@ global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැන�
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/https://www.google.com/search?client=ms-android-oppo-rvo3&sca_esv=597534592&sxsrf=ACQVn08yhtmwKVAxXYglXO3xgHR_xotSbQ:1704984986152&q=HDR+photos&tbm=isch&source=lnms&prmd=ivsnmbtz&sa=X&ved=2ahUKEwicrcmDzNWDAxUZiFYBHZLOAJkQ0pQJegQIDRAB#984989952&sa=1&q=HDR+hacker+photos&oq=HDR+hacker+photos&aqs=mobile-gws-lite..0l4.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./LocalData/theme/https://www.google.com/search?client=ms-android-oppo-rvo3&sca_esv=597534592&tbm=isch&sxsrf=ACQVn0_eVjnRnIGISCHdeONuueZr2SaLhw%3A1704984989952&sa=1&q=HDR+hacker+photos&oq=HDR+hacker+photos&aqs=mobile-gws-lite..0l4#.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur error pic
+global.err4r = fs.readFileSync("./LocalData/theme/https://www.google.com/search?q=there+was+an+error+loading+this+photo&tbm=isch&ved=2ahUKEwiG8qCczdWDAxWiZ2wGHSYxB7EQ2-cCegQIABAD&oq=theare+was+a+error+photos&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgBMgQIIxAnMggIABAIEB4QDTIICAAQgAQQogRQAFgAYKgoaABwAHgAgAHNCYgBzQmSAQM3LTGYAQDAAQE&sclient=mobile-gws-wiz-img&ei=2gKgZYadFaLPseMPpuKciAs&client=ms-android-oppo-rvo3.jpg") //ur error pic
 global.thumb = fs.readFileSync("./LocalData/theme/https://www.google.com/search?client=ms-android-oppo-rvo3&sca_esv=597534592&sxsrf=ACQVn08yhtmwKVAxXYglXO3xgHR_xotSbQ:1704984986152&q=HDR+photos&tbm=isch&source=lnms&prmd=ivsnmbtz&sa=X&ved=2ahUKEwicrcmDzNWDAxUZiFYBHZLOAJkQ0pQJegQIDRAB#.jpg") //ur thumb pic
 
 //DATA BASED
